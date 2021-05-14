@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**cahyaekapermana/cahyaekapermana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently studying on Politeknik Negeri Malang
 - 🌱 I’m currently learning Codeigniter & MySql
 - 👯 I’m currently collaborate on final project assignment for diploma degree graduation requirements
@@ -17,4 +12,3 @@ Here are some ideas to get you started:
   </a>
 </p>
 
--->
