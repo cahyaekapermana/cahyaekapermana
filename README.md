@@ -14,7 +14,6 @@
 
 ### Languages and Tools:
 <p>
-  
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="30" height="30">
   &nbsp;
   <img src="https://github.com/detain/svg-logos/blob/master/svg/codeigniter.svg" width="30" height="30">
@@ -34,6 +33,5 @@
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="30" height="30">
   &nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="30" height="30">
-  
 </p>
 
