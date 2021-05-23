@@ -12,3 +12,9 @@
   </a>
 </p>
 
+![Cahya Eka Permana's GitHub stats](https://github-readme-stats.vercel.app/api?username=cahyaekapermana&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cahyaekapermana)](https://github.com/cahyaekapermana)
+
+
+
