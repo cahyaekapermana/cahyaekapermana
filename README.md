@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/cahyaeka/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's DEV Profile" height="20" width="20">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's DEV Profile" height="25" width="25">
   </a>
 </p>
 
