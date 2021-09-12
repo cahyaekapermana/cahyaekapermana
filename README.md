@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently studying on Politeknik Negeri Malang
-- 🌱 I’m currently learning Python Fundamentals, image processing & Data Mining
+- 🌱 I’m currently learning Python Fundamentals, Image Processing & Data Mining
 - 👯 I’m currently collaborate on final project assignment for diploma degree graduation requirements
 
 ### You can reach me at :point_down:
