@@ -7,7 +7,7 @@
 ### You can reach me at :point_down:
 
 <p>
-  <a href="https://www.linkedin.com/in/cahyaeka/">
+  <a href="https://www.linkedin.com/in/successunder25/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's DEV Profile" height="25" width="25">
   </a>
 </p>
