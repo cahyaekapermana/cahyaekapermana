@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying D3 switch to D4 Information Technology on Politeknik Negeri Malang
+- 🔭 Freshgraduate D4 from Information Technology Politeknik Negeri Malang
 - 🌱 I’m currently learning Machine Learning for beginners
 - 👯 I’m currently collaborate on final project assignment for diploma degree graduation requirements
 
